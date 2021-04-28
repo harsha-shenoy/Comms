@@ -1,6 +1,6 @@
 body {
     --comms-color : #3f0f40;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .app__body {
